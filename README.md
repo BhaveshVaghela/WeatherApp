@@ -1,5 +1,5 @@
 ###### Please find below steps for open project in Android studio & Run.
-1) Download project project.
+1) Download project.
 2) Start Android Studio v 3.1.4.
 3) From the Android Studio menu click File > Open 
 	Android studio will show Open File or Project window.
